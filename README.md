@@ -38,4 +38,4 @@ AdditionInfo, and the target variable AskPrice.
 Python, pandas, numpy, matplotlib, seaborn, scikit-learn
 
 ## Author
-[Anga Nonqane]
+Anga Nonqane
